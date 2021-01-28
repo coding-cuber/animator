@@ -1,0 +1,22 @@
+{
+    "name": "Animator",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "lcd1602": "github:xuefengedu/pxt-lcd1602_cn#0ecac824f43d544bf553459adb2696b5f0d3d8d2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
